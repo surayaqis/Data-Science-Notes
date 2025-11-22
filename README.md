@@ -1,3 +1,4 @@
 # Data-Science-Project
 
-This is my first repository
+This is my first repository about Data Science
+- Edited by Dr. Bernard
